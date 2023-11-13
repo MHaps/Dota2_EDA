@@ -1,0 +1,125 @@
+Name,Primary Attribute,attack_type,roles,Divine Picks,Divine Wins,Divine Win Rate,Immortal Picks,Immortal Wins,Immortal Win Rate,pro_pick,pro_ban,pro_win,pro_win_rate
+Abaddon,all,Melee,"['Support', 'Carry', 'Durable']",2589,1294,49.98,725,348,48.0,43,107,21, 48.84
+Alchemist,str,Melee,"['Carry', 'Support', 'Durable', 'Disabler', 'Initiator', 'Nuker']",2106,1005,47.72,1016,497,48.92,101,85,50, 49.50
+Ancient Apparition,int,Ranged,"['Support', 'Disabler', 'Nuker']",4591,2377,51.78,1861,997,53.57,50,80,24, 48.00
+Anti-Mage,agi,Melee,"['Carry', 'Escape', 'Nuker']",6472,3107,48.01,2582,1238,47.95,172,625,74, 43.02
+Arc Warden,agi,Ranged,"['Carry', 'Escape', 'Nuker']",1606,838,52.18,627,308,49.12,16,71,7, 43.75
+Axe,str,Melee,"['Initiator', 'Durable', 'Disabler', 'Carry']",8743,4498,51.45,3337,1659,49.72,258,271,111, 43.02
+Bane,all,Ranged,"['Support', 'Disabler', 'Nuker', 'Durable']",1756,906,51.59,885,458,51.75,25,81,15, 60.00
+Batrider,all,Ranged,"['Initiator', 'Disabler', 'Escape']",2384,1034,43.37,2131,1048,49.18,370,599,194, 52.43
+Beastmaster,all,Melee,"['Initiator', 'Disabler', 'Durable', 'Nuker']",1810,820,45.3,1449,734,50.66,357,785,184, 51.54
+Bloodseeker,agi,Melee,"['Carry', 'Disabler', 'Nuker', 'Initiator']",6876,3468,50.44,3896,1980,50.82,421,1037,207, 49.17
+Bounty Hunter,agi,Melee,"['Escape', 'Nuker']",4975,2531,50.87,3000,1535,51.17,147,125,104, 70.75
+Brewmaster,all,Melee,"['Carry', 'Initiator', 'Durable', 'Disabler', 'Nuker']",1162,621,53.44,734,400,54.5,47,152,23, 48.94
+Bristleback,str,Melee,"['Carry', 'Durable', 'Initiator', 'Nuker']",1546,703,45.47,360,168,46.67,12,28,5, 41.67
+Broodmother,all,Melee,"['Carry', 'Pusher', 'Escape', 'Nuker']",3643,1756,48.2,2696,1277,47.37,338,1020,172, 50.89
+Centaur Warrunner,str,Melee,"['Durable', 'Initiator', 'Disabler', 'Nuker', 'Escape']",1446,701,48.48,449,208,46.33,46,20,30, 65.22
+Chaos Knight,str,Melee,"['Carry', 'Disabler', 'Durable', 'Pusher', 'Initiator']",1939,992,51.16,764,391,51.18,44,19,17, 38.64
+Chen,all,Ranged,"['Support', 'Pusher']",911,496,54.45,856,452,52.8,75,185,30, 40.00
+Clinkz,agi,Ranged,"['Carry', 'Escape', 'Pusher']",7744,4082,52.71,4176,2163,51.8,130,108,56, 43.08
+Clockwerk,all,Melee,"['Initiator', 'Disabler', 'Durable', 'Nuker']",3761,1828,48.6,2265,1137,50.2,363,299,193, 53.17
+Crystal Maiden,int,Ranged,"['Support', 'Disabler', 'Nuker']",6846,3350,48.93,2646,1330,50.26,442,73,243, 54.98
+Dark Seer,all,Melee,"['Initiator', 'Escape', 'Disabler']",4263,2282,53.53,2619,1402,53.53,259,559,133, 51.35
+Dark Willow,all,Ranged,"['Support', 'Nuker', 'Disabler', 'Escape']",3739,1901,50.84,1662,792,47.65,197,149,100, 50.76
+Dawnbreaker,str,Melee,"['Carry', 'Durable']",3016,1529,50.7,1577,840,53.27,114,42,54, 47.37
+Dazzle,all,Ranged,"['Support', 'Nuker', 'Disabler']",2418,1116,46.15,769,354,46.03,31,89,15, 48.39
+Death Prophet,int,Ranged,"['Carry', 'Pusher', 'Nuker', 'Disabler']",1257,634,50.44,754,376,49.87,71,97,33, 46.48
+Disruptor,int,Ranged,"['Support', 'Disabler', 'Nuker', 'Initiator']",6221,3026,48.64,2789,1337,47.94,376,196,183, 48.67
+Doom,str,Melee,"['Carry', 'Disabler', 'Initiator', 'Durable', 'Nuker']",3007,1230,40.9,1377,586,42.56,278,390,131, 47.12
+Dragon Knight,str,Melee,"['Carry', 'Pusher', 'Durable', 'Disabler', 'Initiator', 'Nuker']",1567,708,45.18,565,252,44.6,113,61,55, 48.67
+Drow Ranger,agi,Ranged,"['Carry', 'Disabler', 'Pusher']",5537,2807,50.7,2480,1218,49.11,168,251,83, 49.40
+Earth Spirit,str,Melee,"['Nuker', 'Escape', 'Disabler', 'Initiator', 'Durable']",2128,1049,49.3,1271,655,51.53,88,37,42, 47.73
+Earthshaker,str,Melee,"['Support', 'Initiator', 'Disabler', 'Nuker']",7504,4007,53.4,3040,1624,53.42,113,51,62, 54.87
+Elder Titan,str,Melee,"['Initiator', 'Disabler', 'Nuker', 'Durable']",1246,676,54.25,915,487,53.22,140,63,70, 50.00
+Ember Spirit,agi,Melee,"['Carry', 'Escape', 'Nuker', 'Disabler', 'Initiator']",7711,3873,50.23,4661,2285,49.02,596,807,313, 52.52
+Enchantress,int,Ranged,"['Support', 'Pusher', 'Durable', 'Disabler']",3218,1472,45.74,2053,894,43.55,341,374,162, 47.51
+Enigma,all,Ranged,"['Disabler', 'Initiator', 'Pusher']",2058,1055,51.26,1688,860,50.95,262,407,146, 55.73
+Faceless Void,agi,Melee,"['Carry', 'Initiator', 'Disabler', 'Escape', 'Durable']",6615,3328,50.31,3123,1617,51.78,233,545,115, 49.36
+Grimstroke,int,Ranged,"['Support', 'Nuker', 'Disabler', 'Escape']",2630,1299,49.39,889,411,46.23,84,16,35, 41.67
+Gyrocopter,agi,Ranged,"['Carry', 'Nuker', 'Disabler']",1861,916,49.22,603,288,47.76,45,50,26, 57.78
+Hoodwink,agi,Ranged,"['Support', 'Nuker', 'Escape', 'Disabler']",2633,1219,46.3,856,385,44.98,110,71,61, 55.45
+Huskar,str,Ranged,"['Carry', 'Durable', 'Initiator']",3713,1953,52.6,2381,1232,51.74,105,222,52, 49.52
+Invoker,int,Ranged,"['Carry', 'Nuker', 'Disabler', 'Escape', 'Pusher']",6229,3206,51.47,2177,1099,50.48,93,67,41, 44.09
+Io,all,Ranged,"['Support', 'Escape', 'Nuker']",2305,1229,53.32,1231,617,50.12,171,290,96, 56.14
+Jakiro,int,Ranged,"['Support', 'Nuker', 'Pusher', 'Disabler']",6094,3125,51.28,2114,1106,52.32,184,50,85, 46.20
+Juggernaut,agi,Melee,"['Carry', 'Pusher', 'Escape']",11291,5572,49.35,4299,2070,48.15,321,331,154, 47.98
+Keeper of the Light,int,Ranged,"['Support', 'Nuker', 'Disabler']",1735,826,47.61,1021,481,47.11,149,74,87, 58.39
+Kunkka,str,Melee,"['Carry', 'Support', 'Disabler', 'Initiator', 'Durable', 'Nuker']",2019,1029,50.97,623,314,50.4,50,18,27, 54.00
+Legion Commander,str,Melee,"['Carry', 'Disabler', 'Initiator', 'Durable', 'Nuker']",13354,7345,55.0,6467,3628,56.1,599,791,322, 53.76
+Leshrac,int,Ranged,"['Carry', 'Support', 'Nuker', 'Pusher', 'Disabler']",1954,959,49.08,1644,860,52.31,208,160,103, 49.52
+Lich,int,Ranged,"['Support', 'Nuker']",8763,4464,50.94,3922,1961,50.0,382,94,166, 43.46
+Lifestealer,str,Melee,"['Carry', 'Durable', 'Escape', 'Disabler']",2135,1052,49.27,594,279,46.97,102,229,52, 50.98
+Lina,int,Ranged,"['Support', 'Carry', 'Nuker', 'Disabler']",4238,1973,46.55,1907,837,43.89,131,137,57, 43.51
+Lion,int,Ranged,"['Support', 'Disabler', 'Nuker', 'Initiator']",7466,3592,48.11,2912,1396,47.94,271,79,139, 51.29
+Lone Druid,all,Ranged,"['Carry', 'Pusher', 'Durable']",1051,527,50.14,447,224,50.11,45,163,24, 53.33
+Luna,agi,Ranged,"['Carry', 'Nuker', 'Pusher']",1385,669,48.3,538,262,48.7,97,60,51, 52.58
+Lycan,all,Melee,"['Carry', 'Pusher', 'Durable', 'Escape']",2022,979,48.42,1205,590,48.96,199,420,113, 56.78
+Magnus,all,Melee,"['Initiator', 'Disabler', 'Nuker', 'Escape']",5653,2604,46.06,1891,888,46.96,99,137,52, 52.53
+Marci,all,Melee,"['Support', 'Carry', 'Initiator', 'Disabler', 'Escape']",2498,1181,47.28,1178,560,47.54,125,172,56, 44.80
+Mars,str,Melee,"['Carry', 'Initiator', 'Disabler', 'Durable']",4710,2218,47.09,2659,1218,45.81,312,197,152, 48.72
+Medusa,agi,Ranged,"['Carry', 'Disabler', 'Durable']",8031,4345,54.1,4082,2094,51.3,469,1112,254, 54.16
+Meepo,agi,Melee,"['Carry', 'Escape', 'Nuker', 'Disabler', 'Initiator', 'Pusher']",2937,1661,56.55,2014,1145,56.85,79,150,37, 46.84
+Mirana,all,Ranged,"['Carry', 'Support', 'Escape', 'Nuker', 'Disabler']",6624,3272,49.4,2732,1362,49.85,276,176,152, 55.07
+Monkey King,agi,Melee,"['Carry', 'Escape', 'Disabler', 'Initiator']",6512,3087,47.4,3273,1563,47.75,297,809,139, 46.80
+Morphling,agi,Ranged,"['Carry', 'Escape', 'Durable', 'Nuker', 'Disabler']",8990,4112,45.74,5153,2459,47.72,538,1060,255, 47.40
+Muerta,int,Ranged,"['Carry', 'Nuker', 'Disabler']",3149,1574,49.98,1319,666,50.49,171,173,94, 54.97
+Naga Siren,agi,Melee,"['Carry', 'Support', 'Pusher', 'Disabler', 'Initiator', 'Escape']",3372,1849,54.83,2882,1601,55.55,220,736,112, 50.91
+Nature's Prophet,int,Ranged,"['Carry', 'Pusher', 'Escape', 'Nuker']",1056,430,40.72,507,200,39.45,38,22,20, 52.63
+Necrophos,int,Ranged,"['Carry', 'Nuker', 'Durable', 'Disabler']",5594,2862,51.16,1866,942,50.48,64,116,24, 37.50
+Night Stalker,str,Melee,"['Carry', 'Initiator', 'Durable', 'Disabler', 'Nuker']",1742,909,52.18,523,261,49.9,30,30,16, 53.33
+Nyx Assassin,all,Melee,"['Disabler', 'Nuker', 'Initiator', 'Escape']",7322,3744,51.13,2944,1521,51.66,113,264,56, 49.56
+Ogre Magi,str,Melee,"['Support', 'Nuker', 'Disabler', 'Durable', 'Initiator']",4360,2175,49.89,1125,508,45.16,153,27,84, 54.90
+Omniknight,str,Melee,"['Support', 'Durable', 'Nuker']",3556,1879,52.84,1244,619,49.76,41,41,21, 51.22
+Oracle,int,Ranged,"['Support', 'Nuker', 'Disabler', 'Escape']",5188,2861,55.15,2673,1460,54.62,230,193,128, 55.65
+Outworld Destroyer,int,Ranged,"['Carry', 'Nuker', 'Disabler']",3965,2005,50.57,1350,678,50.22,73,508,33, 45.21
+Pangolier,all,Melee,"['Carry', 'Nuker', 'Disabler', 'Durable', 'Escape', 'Initiator']",5260,2514,47.79,3386,1682,49.68,385,904,200, 51.95
+Phantom Assassin,agi,Melee,"['Carry', 'Escape']",4547,2114,46.49,1406,661,47.01,66,62,29, 43.94
+Phantom Lancer,agi,Melee,"['Carry', 'Escape', 'Pusher', 'Nuker']",6322,3214,50.84,3329,1636,49.14,116,446,58, 50.00
+Phoenix,all,Ranged,"['Support', 'Nuker', 'Initiator', 'Escape', 'Disabler']",2377,1126,47.37,1227,622,50.69,105,169,54, 51.43
+Primal Beast,str,Melee,"['Initiator', 'Durable', 'Disabler']",5330,2679,50.26,3850,1996,51.84,497,747,265, 53.32
+Puck,int,Ranged,"['Initiator', 'Disabler', 'Escape', 'Nuker']",3967,1936,48.8,1884,906,48.09,133,405,61, 45.86
+Pudge,str,Melee,"['Disabler', 'Initiator', 'Durable', 'Nuker']",16311,8033,49.25,5985,2915,48.71,242,112,106, 43.80
+Pugna,int,Ranged,"['Nuker', 'Pusher']",8076,4181,51.77,4827,2568,53.2,620,801,329, 53.06
+Queen of Pain,int,Ranged,"['Carry', 'Nuker', 'Escape']",7348,3673,49.99,3635,1779,48.94,303,744,146, 48.18
+Razor,agi,Ranged,"['Carry', 'Durable', 'Nuker', 'Pusher']",1985,977,49.22,945,481,50.9,72,65,36, 50.00
+Riki,agi,Melee,"['Carry', 'Escape', 'Disabler']",2991,1635,54.66,1190,639,53.7,48,112,20, 41.67
+Rubick,int,Ranged,"['Support', 'Disabler', 'Nuker']",12677,5862,46.24,6207,3059,49.28,905,487,429, 47.40
+Sand King,all,Melee,"['Initiator', 'Disabler', 'Support', 'Nuker', 'Escape']",2554,1330,52.08,838,407,48.57,26,128,14, 53.85
+Shadow Demon,int,Ranged,"['Support', 'Disabler', 'Initiator', 'Nuker']",2443,1190,48.71,1399,697,49.82,288,252,144, 50.00
+Shadow Fiend,agi,Ranged,"['Carry', 'Nuker']",6895,3276,47.51,2601,1191,45.79,171,338,87, 50.88
+Shadow Shaman,int,Ranged,"['Support', 'Pusher', 'Disabler', 'Nuker', 'Initiator']",3111,1547,49.73,827,404,48.85,22,4,17, 77.27
+Silencer,int,Ranged,"['Carry', 'Support', 'Disabler', 'Initiator', 'Nuker']",6451,3253,50.43,2376,1205,50.72,250,217,128, 51.20
+Skywrath Mage,int,Ranged,"['Support', 'Nuker', 'Disabler']",8503,4496,52.88,4658,2412,51.78,663,367,321, 48.42
+Slardar,str,Melee,"['Carry', 'Durable', 'Initiator', 'Disabler', 'Escape']",1645,831,50.52,519,241,46.44,21,31,8, 38.10
+Slark,agi,Melee,"['Carry', 'Escape', 'Disabler', 'Nuker']",10503,5383,51.25,4809,2529,52.59,278,903,156, 56.12
+Snapfire,all,Ranged,"['Support', 'Nuker', 'Disabler', 'Escape']",9328,4462,47.83,5312,2544,47.89,734,522,351, 47.82
+Sniper,agi,Ranged,"['Carry', 'Nuker']",4487,2209,49.23,1169,576,49.27,82,73,40, 48.78
+Spectre,agi,Melee,"['Carry', 'Durable', 'Escape']",2427,1268,52.25,635,316,49.76,28,45,13, 46.43
+Spirit Breaker,str,Melee,"['Carry', 'Initiator', 'Disabler', 'Durable', 'Escape']",13866,6992,50.43,6913,3595,52.0,864,661,433, 50.12
+Storm Spirit,int,Ranged,"['Carry', 'Escape', 'Nuker', 'Initiator', 'Disabler']",6528,3208,49.14,3685,1831,49.69,494,615,249, 50.40
+Sven,str,Melee,"['Carry', 'Disabler', 'Initiator', 'Durable', 'Nuker']",2595,1335,51.45,1252,622,49.68,139,60,57, 41.01
+Techies,all,Ranged,"['Nuker', 'Disabler']",10677,5384,50.43,5876,2900,49.35,701,765,339, 48.36
+Templar Assassin,agi,Ranged,"['Carry', 'Escape']",4350,2138,49.15,2742,1405,51.24,372,507,186, 50.00
+Terrorblade,agi,Melee,"['Carry', 'Pusher', 'Nuker']",1930,935,48.45,1441,669,46.43,290,355,126, 43.45
+Tidehunter,str,Melee,"['Initiator', 'Durable', 'Disabler', 'Nuker', 'Carry']",3896,1874,48.1,1958,940,48.01,274,308,120, 43.80
+Timbersaw,all,Melee,"['Nuker', 'Durable', 'Escape']",7533,3572,47.42,4579,2150,46.95,535,1157,248, 46.36
+Tinker,int,Ranged,"['Carry', 'Nuker', 'Pusher']",5753,3129,54.39,2577,1426,55.34,72,188,32, 44.44
+Tiny,str,Melee,"['Carry', 'Nuker', 'Pusher', 'Initiator', 'Durable', 'Disabler']",2353,1095,46.54,1265,586,46.32,210,78,116, 55.24
+Treant Protector,str,Melee,"['Support', 'Initiator', 'Durable', 'Disabler', 'Escape']",1650,848,51.39,721,343,47.57,18,11,7, 38.89
+Troll Warlord,agi,Ranged,"['Carry', 'Pusher', 'Disabler', 'Durable']",1288,608,47.2,537,267,49.72,71,182,39, 54.93
+Tusk,str,Melee,"['Initiator', 'Disabler', 'Nuker']",3065,1423,46.43,1288,605,46.97,144,63,69, 47.92
+Underlord,str,Melee,"['Support', 'Nuker', 'Disabler', 'Durable', 'Escape']",2419,1211,50.06,890,446,50.11,152,171,73, 48.03
+Undying,str,Melee,"['Support', 'Durable', 'Disabler', 'Nuker']",8677,4658,53.68,5787,3057,52.83,770,931,402, 52.21
+Ursa,agi,Melee,"['Carry', 'Durable', 'Disabler']",3989,1912,47.93,1488,713,47.92,110,283,51, 46.36
+Vengeful Spirit,all,Ranged,"['Support', 'Initiator', 'Disabler', 'Nuker', 'Escape']",3025,1408,46.55,1027,463,45.08,76,118,32, 42.11
+Venomancer,all,Ranged,"['Support', 'Nuker', 'Initiator', 'Pusher', 'Disabler']",8093,4262,52.66,3894,2008,51.57,255,447,140, 54.90
+Viper,agi,Ranged,"['Carry', 'Durable', 'Initiator', 'Disabler']",1850,897,48.49,692,332,47.98,71,297,36, 50.70
+Visage,all,Ranged,"['Support', 'Nuker', 'Durable', 'Disabler', 'Pusher']",1829,1020,55.77,1437,759,52.82,165,405,88, 53.33
+Void Spirit,all,Melee,"['Carry', 'Escape', 'Nuker', 'Disabler']",5546,2586,46.63,2228,992,44.52,186,435,82, 44.09
+Warlock,int,Ranged,"['Support', 'Initiator', 'Disabler']",2809,1465,52.15,958,478,49.9,19,21,9, 47.37
+Weaver,agi,Ranged,"['Carry', 'Escape']",2291,1225,53.47,1056,521,49.34,73,212,34, 46.58
+Windranger,all,Ranged,"['Carry', 'Support', 'Disabler', 'Escape', 'Nuker']",13184,6733,51.07,5924,2984,50.37,457,882,226, 49.45
+Winter Wyvern,all,Ranged,"['Support', 'Disabler', 'Nuker']",2922,1386,47.43,1378,651,47.24,57,343,29, 50.88
+Witch Doctor,int,Ranged,"['Support', 'Nuker', 'Disabler']",5745,2725,47.43,1568,733,46.75,73,22,39, 53.42
+Wraith King,str,Melee,"['Carry', 'Support', 'Durable', 'Disabler', 'Initiator']",2103,1020,48.5,526,243,46.2,69,24,38, 55.07
+Zeus,int,Ranged,"['Nuker', 'Carry']",4629,2300,49.69,1676,833,49.7,147,235,70, 47.62
